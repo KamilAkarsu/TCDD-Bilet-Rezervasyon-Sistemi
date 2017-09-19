@@ -1,0 +1,17 @@
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\bin\Debug\dataGridViewKullanımı.exe.config
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.exe
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.pdb
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\bin\Debug\dataGridViewKullanımı.exe.config
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.exe
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.pdb
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\bin\Debug\dataGridViewKullanımı.exe
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\bin\Debug\dataGridViewKullanımı.pdb
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\NYP FİNAL PROJESİ.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Form1.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Form2.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Form3.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Form4.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Form5.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Form6.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\dataGridViewKullanımı.Properties.Resources.resources
+C:\Users\Kamil Akarsu\Desktop\NYP FİNAL PROJESİ\obj\Debug\NYP FİNAL PROJESİ.csproj.GenerateResource.Cache

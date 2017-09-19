@@ -1,0 +1,14 @@
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\bin\Debug\dataGridViewKullanımı.exe.config
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\bin\Debug\dataGridViewKullanımı.exe
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\bin\Debug\dataGridViewKullanımı.pdb
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Form1.resources
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Form2.resources
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Properties.Resources.resources
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.csproj.GenerateResource.Cache
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.exe
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.pdb
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Form3.resources
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Form4.resources
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Form5.resources
+C:\Users\Kamil Akarsu\Desktop\dataGridViewKullanımı\obj\Debug\dataGridViewKullanımı.Form6.resources
